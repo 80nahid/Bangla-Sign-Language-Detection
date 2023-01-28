@@ -1,7 +1,7 @@
-##Digit Dataset Link:
+## Digit Dataset Link:
 
-[https://www.kaggle.com/datasets/jahid85/shongket-bangla-sign-language-digit-datset]
+[Please click here to get kaggle datset link](https://www.kaggle.com/datasets/jahid85/shongket-bangla-sign-language-digit-datset)
 
 ##Bangla letter Dataset link
-[Click here](https://www.kaggle.com/datasets/jahid85/shongket-bangla-sign-language-letter-dataset)
+[Click here to get kaggle link](https://www.kaggle.com/datasets/jahid85/shongket-bangla-sign-language-letter-dataset)
 
